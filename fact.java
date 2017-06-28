@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class factorial
+class fact
 {
     public static void main(String args[])
     {
